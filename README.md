@@ -6,6 +6,8 @@
     <img src="https://skillicons.dev/icons?i=python,java,github,ubuntu,raspberrypi"  alt="skills"/>
 </div>
 
+<p></p>
+
 <div align="center"> 
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge"  alt="telegram"/>
 </div>
