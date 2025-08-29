@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://t.me/brill_sol">
+    <a href="https://t.me/brill_sol/">
         <img src="https://skillicons.dev/icons?i=python,java,github,ubuntu,raspberrypi" alt="skills"/>
     </a>
 </div>
