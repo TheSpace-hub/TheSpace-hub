@@ -17,6 +17,6 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheSpace-hub&theme=calm_pink&show_icons=true&rank_icon=github" height="200" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpace-hub&layout=compact&theme=calm_pink" height="200" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheSpace-hub&theme=calm_pink&show_icons=true&rank_icon=github" height="180" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpace-hub&layout=compact&theme=calm_pink" height="180" alt="languages graph"  />
 </div>
