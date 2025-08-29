@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello World 👋
 
+> [!NOTE]\
+> There you can find out more about me. ✨
 
-**TheSpace-hub/TheSpace-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sergey - Java and Python developer.
 
-Here are some ideas to get you started:
+What you can take a closer look:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- Java Projects:
+    - Minecraft plugins
+    - Scientific apps
+- Graphic apps
+- Python Projects:
+    - Scientific apps
+    - Graphic apps
