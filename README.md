@@ -1,6 +1,14 @@
 ## Hello World 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java" />
+  </a>
+</p>
+
 There you can find out more about me. ✨
+
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge)
 
 ---
 
