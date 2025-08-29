@@ -2,8 +2,6 @@
 
 There you can find out more about me. ✨
 
-I'm Sergey - Java and Python developer.
-
 ---
 
 <div align="center">
